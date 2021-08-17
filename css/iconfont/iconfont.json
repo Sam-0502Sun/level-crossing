@@ -1,0 +1,93 @@
+{
+  "id": "2434045",
+  "name": "level-crossing",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1048895",
+      "name": "Twitter",
+      "font_class": "icon_twitter",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "1080508",
+      "name": "facebook",
+      "font_class": "facebook",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "1467453",
+      "name": "yutube",
+      "font_class": "yutube",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "4803522",
+      "name": "登录",
+      "font_class": "xiaoren",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "4936972",
+      "name": "instagram",
+      "font_class": "instagram",
+      "unicode": "e87f",
+      "unicode_decimal": 59519
+    },
+    {
+      "icon_id": "5606320",
+      "name": "Email Connect",
+      "font_class": "Email_Asset",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5924849",
+      "name": "map- 1",
+      "font_class": "map-",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "6046385",
+      "name": "contact",
+      "font_class": "contact",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "6265251",
+      "name": "菜单栏",
+      "font_class": "list2",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "15559681",
+      "name": "in",
+      "font_class": "shejiaotubiao-14",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "15821667",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "17122682",
+      "name": "警告",
+      "font_class": "jinggao",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+.body{
+  margin: 0;
+  padding: 0;
+  height: 1000px;
+}
+
+.outer-wrap{
+  height: 500px;
+  position: relative;
+}
+.login-form {
+  z-index: 9999;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 500px;
+  height: 500px;
+  margin-left: 700px;
+  border-radius: 5px;
+  border: solid 2px #666;
+  background-color: #fff;
+  display: none;
+  box-shadow: 0 0 10px #666;
+}
+.login-close {
+  margin-right: 15px;
+}

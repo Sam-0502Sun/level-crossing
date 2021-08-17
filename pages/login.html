@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="/css/login.css">
+</head>
+<body>
+  <div class="outer-wrap">
+    <div class="login-form">
+        <div class="login-header">
+          <a href="javascript:;" title="closs" class="login-close close">×</a>
+          <h3 class="loginlabel">Login</h3>
+        </div>
+        <div
+          class="
+            col-md-10
+            col-md-offset-1
+            col-sm-10
+            col-sm-offset-1
+            col-xs-10
+            col-xs-offset-1
+          "
+        >
+          <form action="main.html" method="get">
+            <div class="input">
+              <label>User Name</label>
+              <input
+                type="text"
+                class="uname"
+                id="uname"
+                name="uname"
+                autocomplete="off"
+                spellcheck="false"
+                placeholder="Please use email or mobile number"
+              />
+            </div>
+            <div class="input">
+              <label>Password</label>
+              <input
+                type="password"
+                class="upwd"
+                id="upwd"
+                name="upwd"
+                autocomplete="off"
+                spellcheck="false"
+                placeholder="Please enter the password"
+              />
+            </div>
+            <div class="form-group">
+              <div class="checkbox">
+                <label
+                  ><input
+                    type="checkbox"
+                    name="checkname"
+                    id="checkid"
+                    οnchange="changeval()"
+                    value="0"
+                  />Remember login</label
+                >
+                <div class="pull-right">
+                  <a href="" class="text-right">forget the password?</a>
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <button type="submit" class="btn btn-info btn-lg btn-block">
+                Login
+              </button>
+            </div>
+            <div class="form-group">
+              <a
+                href="javascript:;"
+                class="register-btn btn btn-info btn-lg btn-block"
+                role="button"
+                >Register a new account</a
+              >
+            </div>
+          </form>
+        </div>
+      </div>
+      >
+    </div>
+    <div class="login-form-mask"></div>
+</body>
+</html>

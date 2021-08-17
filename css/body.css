@@ -1,0 +1,41 @@
+.bodytop-wrapper {
+    position: absolute;
+    float: left;
+    height: 400px;
+    width: 1890px;
+    margin-top: 100px;
+}
+
+.Top-left {
+    overflow: hidden;
+    height: 400px;
+    width: 800px;
+    float: left;
+    background-color: #4d7a7f;
+}
+
+.cha {
+    width: 300px;
+    height: 300px;
+    font-size: 40px;
+}
+
+.Top-middle {
+    height: 400px;
+    width: 490px;
+    float: left;
+    background-color: #00bcc9;
+}
+
+.test-wrap {
+    width: 0;
+    height: 0;
+    float: right;
+    border-top: 400px solid transparent;
+    border-right: 400px solid #00bcc9;
+}
+
+.Top-right {
+    float: right;
+}
+

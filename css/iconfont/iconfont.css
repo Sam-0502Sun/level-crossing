@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2434045 */
+  src: url('iconfont.woff2?t=1626421571334') format('woff2'),
+       url('iconfont.woff?t=1626421571334') format('woff'),
+       url('iconfont.ttf?t=1626421571334') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 30px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconicon_twitter:before {
+  content: "\e630";
+}
+
+.iconfacebook:before {
+  content: "\e620";
+}
+
+.iconyutube:before {
+  content: "\e6b7";
+}
+
+.iconxiaoren:before {
+  content: "\e65a";
+}
+
+.iconinstagram:before {
+  content: "\e87f";
+}
+
+.iconEmail_Asset:before {
+  content: "\e600";
+}
+
+.iconmap-:before {
+  content: "\e651";
+}
+
+.iconcontact:before {
+  content: "\e606";
+}
+
+.iconlist2:before {
+  content: "\e655";
+}
+
+.iconshejiaotubiao-14:before {
+  content: "\e642";
+}
+
+.iconfangdajing:before {
+  content: "\e60b";
+}
+
+.iconjinggao:before {
+  content: "\e604";
+}
+
